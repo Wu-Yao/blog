@@ -1,3 +1,3 @@
+<img style="width: 190px;height: 190px;border-radius: 50%;" src="./images/avatar.png" alt="头像">
 
-<img width="180px" style="border-radius: 50%" bor src="./images/avatar.jpg"> 
-<p>愿你的指下有git init代码</p><p>眼里有星辰</p>
+<p>愿你的指下有代码</p><p>眼里有星辰</p>
